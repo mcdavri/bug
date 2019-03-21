@@ -1,0 +1,74 @@
+{
+  "WooCommerce": {
+    "url": "https://kitchenstuffs.org",
+    "consumerKey": "ck_dacf2592725d31d59694b115266f7f13ee9cee15",
+    "consumerSecret": "cs_061cffba6984ca018dbf8ff4de1218aa2c29fa2b"
+  },
+  "HorizonLayout": [
+ 
+    {
+      "layout": "circleCategory" 
+    },
+
+    {
+      "layout": "bannerHigh",
+      "tag": 273
+    },
+
+
+    {
+      "imageBanner": "https://kitchenstuffs.org/wp-content/uploads/2017/12/delivery_route.jpg",
+      "layout": "bannerImage",
+      "height": 250,
+      "width": 2750,
+      "category": 26
+    },
+    
+    {
+      "imageBanner": "https://kitchenstuffs.org/wp-content/uploads/revslider/organic-home-22/Organic_v2_03.jpg",
+      "layout": "bannerImage",
+      "height": 250,
+      "width": 2550,
+      "category": 30
+    },
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 25
+    },
+    {
+      "name": "vegetables",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 18
+    },
+    {
+      "image": "",
+      "layout": "threeColumn",
+      "category": 31
+    },
+    {
+      "image": "",
+      "layout": "threeColumn",
+      "category": 26
+    },
+    {
+      "image": "",
+      "layout": "threeColumn",
+      "category": 25
+    },
+    {
+      "image": "",
+      "layout": "threeColumn",
+      "category": 27
+    },
+    {
+      "image": "",
+      "layout": "threeColumn",
+      "category": 23
+    }
+  ],
+
+  "MainColor": "#3FC1BE"
+}
